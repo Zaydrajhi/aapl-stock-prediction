@@ -11,7 +11,7 @@
 ├── AAPL.csv                    # Raw Apple Inc. historical stock data (OHLCV)
 ├── Untitled4.ipynb             # EDA & preprocessing pipeline
 ├── LSTM__1_.ipynb              # LSTM baseline regression model
-└── LSTM___XGboost_2.ipynb      # LSTM + Gradient Boosting + Random Forest hybrid
+└── LSTM___XGboost_2.ipynb      # LSTM + Gradient Boosting + Random Forest hybrid.
 ```
 
 ---
